@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online-Tree-Shop.git/static/css/main.7a98ac9c.css",
+    "main.js": "/Online-Tree-Shop.git/static/js/main.3796db17.js",
+    "static/js/787.a8723d96.chunk.js": "/Online-Tree-Shop.git/static/js/787.a8723d96.chunk.js",
+    "index.html": "/Online-Tree-Shop.git/index.html",
+    "main.7a98ac9c.css.map": "/Online-Tree-Shop.git/static/css/main.7a98ac9c.css.map",
+    "main.3796db17.js.map": "/Online-Tree-Shop.git/static/js/main.3796db17.js.map",
+    "787.a8723d96.chunk.js.map": "/Online-Tree-Shop.git/static/js/787.a8723d96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a98ac9c.css",
+    "static/js/main.3796db17.js"
+  ]
+}
