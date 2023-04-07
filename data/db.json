@@ -1,0 +1,351 @@
+{
+    "trees": [
+        {
+            "id": 1,
+            "name": "Apple trees",
+            "imgUrl": "./images/apple.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Honeycrisp Apple",
+                    "price": 139.99,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/honeycrisp.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "McIntosh Apple",
+                    "price": 133.39,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "18-25 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/mcintosh.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Red Delicious Apple",
+                    "price": 179.99,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Yellow",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/red-delicious.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Granny Smith Apple",
+                    "price": 104.9,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/granny.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Gala Apple",
+                    "price": 124.59,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/gala.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Fuji Apple",
+                    "price": 124.59,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "fallColor": "Yellow",
+                    "harvest": "Late Mid-Season",
+                    "imgUrl": "./images/fuji.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cherry trees",
+            "imgUrl": "./images/cherry.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Nanking Cherry",
+                    "price": 69.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "10-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early to Mid-Summer",
+                    "imgUrl": "./images/nanking.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Bing Cherry",
+                    "price": 124.59,
+                    "matureHeight": "16-20 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Mid Season",
+                    "imgUrl": "./images/bing.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Rainier Cherry",
+                    "price": 134.39,
+                    "matureHeight": "15-25 feet",
+                    "matureSpread": "12-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink, White",
+                    "harvest": "Mid Season",
+                    "imgUrl": "./images/rainier.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Brooks Sweet Cherry",
+                    "price": 124.79,
+                    "matureHeight": "15-20 feet",
+                    "matureSpread": "15-20 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/brooks.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Lapins Cherry",
+                    "price": 124.49,
+                    "matureHeight": "15-20 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Mid Season",
+                    "imgUrl": "./images/lapins.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Mandarin trees",
+            "imgUrl": "./images/mandarin.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Owari Satsuma Mandarin",
+                    "price": 134.99,
+                    "matureHeight": "7-10 feet",
+                    "matureSpread": "7-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/owari-satsuma.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Dwarf Brown Select Satsuma Tree",
+                    "price": 134.99,
+                    "matureHeight": "6-10 feet",
+                    "matureSpread": "5-6 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/dwarf-brown.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Page Mandarin Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "4-6 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/page-mandarin.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Gold Nugget Mandarin Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "8-10 feet",
+                    "sunlight": "Full Sun, Partial Shade",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/gold-nugget.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Orange trees",
+            "imgUrl": "./images/orange.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Sanguinelli Blood Orange Tree",
+                    "price": 124.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "4-6 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/sanguinelli-blood.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Lane Late Navel Orange Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "3-4 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/lane-late-navel.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Moro Blood Orange Tree",
+                    "price": 119.99,
+                    "matureHeight": "7-10 feet",
+                    "matureSpread": "7-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/moro-blood.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Fukamoto Orange Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "8-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/fukamoto.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Peach trees",
+            "imgUrl": "./images/peach.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Elberta Peach Tree",
+                    "price": 179.99,
+                    "matureHeight": "15-25 feet",
+                    "matureSpread": "10-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pinkish-Purple",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/elberta.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "O'Henry Peach Tree",
+                    "price": 124.79,
+                    "matureHeight": "15-20 feet",
+                    "matureSpread": "15-20 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/o-henry.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Golden Jubilee Peach Tree",
+                    "price": 149.99,
+                    "matureHeight": "8-14 feet",
+                    "matureSpread": "8-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Mid Season",
+                    "imgUrl": "./images/golden-jubilee.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "STELLAR Autumnstar Peach Tree",
+                    "price": 109.13,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Late Season",
+                    "imgUrl": "./images/stellar-autumnstar.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Raritan Rose Peach Tree",
+                    "price": 109.13,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Early Season",
+                    "imgUrl": "./images/raritan-rose.jpg"
+                }
+            ]
+        }
+    ]
+}

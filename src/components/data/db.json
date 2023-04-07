@@ -1,0 +1,351 @@
+{
+    "trees": [
+        {
+            "id": 1,
+            "name": "Apple trees",
+            "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/h/o/honeycrisp_apple_tree_1_600x600.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Honeycrisp Apple",
+                    "price": 139.99,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/h/o/honeycrisp_apple_tree_1_600x600.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "McIntosh Apple",
+                    "price": 133.39,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "18-25 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/m/c/mcintosh-apple-tree-800x800_1.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Red Delicious Apple",
+                    "price": 179.99,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Yellow",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/r/e/red-delicious-apple-tree-3-600x600.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Granny Smith Apple",
+                    "price": 104.9,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/g/r/granny-apple_1.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Gala Apple",
+                    "price": 124.59,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/g/a/gala-apple-tree-800x8001.jpg"
+                },
+                {
+                    "id": 6,
+                    "name": "Fuji Apple",
+                    "price": 124.59,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "15-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "fallColor": "Yellow",
+                    "harvest": "Late Mid-Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/f/u/fuji-apple-tree-800x800.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cherry trees",
+            "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/_/p/_prunuscarminejewel_a-600x600.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Nanking Cherry",
+                    "price": 69.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "10-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early to Mid-Summer",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/n/a/nanking-cherry-fruit-600x600.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Bing Cherry",
+                    "price": 124.59,
+                    "matureHeight": "16-20 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Mid Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/b/i/bing-cherry-fruit-in-tree-2-600x600.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Rainier Cherry",
+                    "price": 134.39,
+                    "matureHeight": "15-25 feet",
+                    "matureSpread": "12-18 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink, White",
+                    "harvest": "Mid Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/r/a/rainier-cherry-tree-1-800x800.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Brooks Sweet Cherry",
+                    "price": 124.79,
+                    "matureHeight": "15-20 feet",
+                    "matureSpread": "15-20 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/b/r/brooks_sweet_cherry_tree_600x600.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Lapins Cherry",
+                    "price": 124.49,
+                    "matureHeight": "15-20 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Mid Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/l/a/lapins-cherry-425x425.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Mandarin trees",
+            "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/o/w/owari_satsuma_mandarin_600x600.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Owari Satsuma Mandarin",
+                    "price": 134.99,
+                    "matureHeight": "7-10 feet",
+                    "matureSpread": "7-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/o/w/owari_satsuma_mandarin_600x600.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Dwarf Brown Select Satsuma Tree",
+                    "price": 134.99,
+                    "matureHeight": "6-10 feet",
+                    "matureSpread": "5-6 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/d/w/dwarf-brown-select-satsuma-tree-03-600x600.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Page Mandarin Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "4-6 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/p/a/page_mandarin-600x600.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Gold Nugget Mandarin Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "8-10 feet",
+                    "sunlight": "Full Sun, Partial Shade",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/g/o/gold_nugget_mandarin_tree_600x600_1.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Orange trees",
+            "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/c/a/cara_cara_sweet_orange_600x600.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Sanguinelli Blood Orange Tree",
+                    "price": 124.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "4-6 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/s/a/sanguinelli_blood_orange_tree_600x600_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Lane Late Navel Orange Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "3-4 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/l/a/lane-late-navel-orange-600x600.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Moro Blood Orange Tree",
+                    "price": 119.99,
+                    "matureHeight": "7-10 feet",
+                    "matureSpread": "7-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/m/o/moro_blood_orange_600x600.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Fukamoto Orange Tree",
+                    "price": 119.99,
+                    "matureHeight": "8-10 feet",
+                    "matureSpread": "8-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "White",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/f/u/fukamoto-orange-600x600.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Peach trees",
+            "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/b/e/belle-of-georgia-fruit-600x600.jpg",
+            "trees": [
+                {
+                    "id": 1,
+                    "name": "Elberta Peach Tree",
+                    "price": 179.99,
+                    "matureHeight": "15-25 feet",
+                    "matureSpread": "10-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pinkish-Purple",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/e/l/elberta-peach-tree-2-600x600.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "O'Henry Peach Tree",
+                    "price": 124.79,
+                    "matureHeight": "15-20 feet",
+                    "matureSpread": "15-20 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/o/_/o_henry-peach-tree-1-800x800.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Golden Jubilee Peach Tree",
+                    "price": 149.99,
+                    "matureHeight": "8-14 feet",
+                    "matureSpread": "8-10 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Widely adaptable",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Mid Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/g/o/golden-jubilee-peach-1-600x600.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "STELLAR Autumnstar Peach Tree",
+                    "price": 109.13,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Late Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/s/t/stellar-autumnstar-peach-1-600x600.jpg"
+                },
+                {
+                    "id": 5,
+                    "name": "Raritan Rose Peach Tree",
+                    "price": 109.13,
+                    "matureHeight": "12-18 feet",
+                    "matureSpread": "12-15 feet",
+                    "sunlight": "Full Sun",
+                    "soil": "Well Drained",
+                    "growthRate": "Moderate",
+                    "flowerColor": "Pink",
+                    "harvest": "Early Season",
+                    "imgUrl": "https://www.naturehills.com/media/catalog/product/cache/1710302e448e18dd210bfc60a5382668/r/a/raritan-rose-peach-1-600x600.jpg"
+                }
+            ]
+        }
+    ]
+}
