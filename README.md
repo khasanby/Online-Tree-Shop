@@ -9,3 +9,26 @@ Before you can run the application, you'll need to make sure you have the follow
 
 * Node.js
 * npm
+
+### Installation
+1. To install the application, follow these steps:
+
+2. Clone the repository to your local machine using the following command:
+[git clone https://github.com/khasanby/your-repo.git](https://github.com/khasanby/Online-Tree-Shop.git)
+
+3. Navigate to the project directory using the following command:
+cd online-tree-shop
+
+4. Install the dependencies using the following command:
+5. npm install
+
+### Usage
+To run the application, follow these steps:
+
+1. Start the development server using the following command:
+ npm start
+ This will start the development server and open the application in your default browser.
+
+2. To stop the development server, press Ctrl+C in the terminal.
+ npm run build
+ The built files will be located in the `build` folder
