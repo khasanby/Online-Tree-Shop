@@ -14,7 +14,7 @@ Before you can run the application, you'll need to make sure you have the follow
 1. To install the application, follow these steps:
 
 2. Clone the repository to your local machine using the following command:
-[git clone https://github.com/khasanby/your-repo.git](https://github.com/khasanby/Online-Tree-Shop.git)
+git clone https://github.com/khasanby/your-repo.git
 
 3. Navigate to the project directory using the following command:
 cd online-tree-shop
