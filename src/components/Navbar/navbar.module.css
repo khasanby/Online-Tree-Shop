@@ -35,3 +35,15 @@
   color: white; 
   opacity: 1; 
 }
+
+.iconContainer {
+  position: relative;
+}
+
+.cartItemCount {
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  bottom: 50%;
+}

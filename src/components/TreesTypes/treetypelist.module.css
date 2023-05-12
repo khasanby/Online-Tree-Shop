@@ -1,11 +1,12 @@
-.tree-list {
+.treeList {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    column-gap: 4%;
 }
 
-.tree-card {
+.treeCard {
     display: flex;
     flex-direction: column;
     text-decoration: none;
@@ -17,7 +18,7 @@
     transition: all 0.3s ease-in-out;
 }
 
-.tree-card:hover {
+.treeCard:hover {
     transform: scale(1.01);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
 }
@@ -33,13 +34,13 @@
     color: #fff;
 }
 
-.tree-image {
+.treeImage {
     width: 200px;
     height: 200px;
     border-radius: 10px;
 }
 
-.tree-name {
+.treeName {
     color: #000;
     font-size: 1.2rem;
 }

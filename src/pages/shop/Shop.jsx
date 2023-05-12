@@ -1,6 +1,6 @@
 import React from 'react';
 import './shop.css';
-import TreeList from '../Trees/TreeList';
+import TreeTypeList from '../../components/TreesTypes/TreeTypeList';
 
 const Shop = () => {
   // const { data: trees, isPending, error } = useFetch('http://localhost:8000/trees');
@@ -8,7 +8,7 @@ const Shop = () => {
   return (
     <div className='trees-container'>
         {
-          <TreeList title="All Trees" />
+          <TreeTypeList title="All Trees" />
         }
     </div>
   )

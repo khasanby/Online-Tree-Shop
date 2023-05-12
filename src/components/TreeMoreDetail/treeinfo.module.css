@@ -1,0 +1,77 @@
+.treeInfoCart {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10%;
+}
+
+.buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.treeImage {
+    width: 30%;
+    border-radius: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.addToCartButton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.addToCartButton:hover {
+    background-color: #45a049;
+}
+
+.buyNowButton {
+    background-color: #5b9ff8;
+    border: none;
+    color: white;
+    padding: 12px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.buyNowButton:hover {
+    background-color: #2760ca;
+}
+
+.countInput {
+    width: 50px;
+    height: 35px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.countInput:focus {
+    outline: none;
+}
